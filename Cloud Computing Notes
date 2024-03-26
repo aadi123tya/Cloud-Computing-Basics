@@ -1,0 +1,80 @@
+Cloud Computing Characterstics
+******************************
+
+=> On Demand and Self Services
+1. Save money and Time.
+2. Scalaibility remians
+
+
+
+=> Ubiquitous network access
+1. only requires internet Access.
+2. Leverages them for a period of time.
+
+
+=> Resources Pooling
+1. Able to access resources
+2. Return them to the resources pool for use.
+
+
+=> Rapid elasticity
+1. Cloud computing's value is the ability to expand access and 
+  Provision resources as you need them.
+
+
+=> Pay per use
+
+
+
+
+
+Cloud Deployment Models
+***********************
+1. Private Cloud => THE HARDWARE ON WHICH YOUR CLOUDS RUNS 
+                    IS FOR ONLY YOUR ORGANIZATIONS USE.
+
+                 => PRIVATE DEPLOYMENT
+                    1.EXCLISIVE 
+                    2.SECURE
+                    3.NOT MULTITENANT   {multitenancy means that multiple
+                                        customers of a cloud vendor are using 
+                                        the same computing resources}
+                    4. COMPILES WITH PRIVACY REGULATIONS
+
+
+
+2. public Cloud => LEVERAGING CLOUD SERVICES OVER THE OPEN INTERNET
+                   ,USING HARDWARE AND SOFTWARE THAT YOU DONT OWN.
+               => PUBLIC DEPLOYMENT
+                  1. LESS SECURE
+                  2. FREE HARDWARE AND SOFTWARE
+
+3. Community Cloud => SAME AS PUBLIC CLOUD BUT ONLY ACCESSIBLE TO A 
+                      LIMITED GROUP OF ORGANIZATIONS OR EMPLOYEES.
+                   
+                   => COMMUNITY DEPLOYMENT
+                      1. SHARED BY MORE THAN ONE ORGANIZATIONS
+                      2. CUSTOMISED TO AN INDUSTRY
+
+
+4. Multi Cloud => TWO OR MORE PUBLIC OR PRIVATE CLOUDS.
+
+               => MULTI CLOUD DEPLOYMENT
+                  1. MULTI PROVIDERS
+                  2. BROAD RANGE  OF FEATURE CHOICES
+                  3. REDUNDANCY
+                
+5. Hybrid Cloud => USING BOTH PRIVATE AND PUBLIC CLOUDS.
+
+                => HYBRID DEPLOYMENT
+                  1. LEVERAGES STRENGTHS OF PUBLIC AND PRIVATE CLOUDS
+                  2.  
+
+Cloud Delivery Models
+*********************
+1. Software As a Services(SaaS)
+2. Platform as a Services(PaaS)
+3. Infrastructure as a Services(IaaS)
+
+On Demand and Self Services
+***************************
